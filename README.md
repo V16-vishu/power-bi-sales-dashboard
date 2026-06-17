@@ -51,7 +51,7 @@ This Power BI project provides a comprehensive analysis of SuperStore sales data
 ![Sales Dashboard](Sales_Dashboard.png)
 
 ### Sales Forecast Dashboard
-![Forecast Dashboard](Sales_Forecast_Dashboard.png)
+![Forecast Dashboard](Forecast_Dashboard.png)
 
 ---
 
